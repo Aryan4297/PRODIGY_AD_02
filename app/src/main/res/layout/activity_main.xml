@@ -13,10 +13,12 @@
 
         <EditText
             android:id="@+id/inputTask"
-            android:layout_width="297dp"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:hint="@string/enter_task" />
+            android:hint="@string/enter_task"
+            android:inputType="text"
+            android:textColorHint="#546E7A" />
 
         <Button
             android:id="@+id/addButton"
