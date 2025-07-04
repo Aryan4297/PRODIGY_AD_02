@@ -1,1 +1,51 @@
-##PRODIGY_AD_02
+# 📝 ToDoList Android App
+
+A simple yet efficient **To-Do List** app developed in **Java** and **XML** using **Android Studio**. This app allows users to manage tasks with a clean, intuitive interface and supports light and dark themes.
+
+---
+
+## 🚀 Features
+
+- ➕ Add tasks
+- 🗑️ Delete tasks
+
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshot/Screenshot1.png" alt="Light Theme" width="250"/>
+  
+</p>
+
+---
+## 🛠️ Tech Stack
+
+- **Language:** Java
+- **UI Design:** XML
+- **Database:** SQLite
+- **IDE:** Android Studio
+
+---
+
+## ✅ Sample Task Usage
+
+- "Buy groceries"
+- "Finish assignment by Friday"
+- "Call John at 5 PM"
+- "Review pull requests"
+
+---
+## 📥 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Aryan4297/PRODIGY_AD_02.git
+2. Open the project in Android Studio.
+3. Connect your emulator or device and click Run.
+---
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to open issues or pull requests.
+
