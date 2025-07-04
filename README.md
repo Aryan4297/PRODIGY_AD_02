@@ -15,7 +15,7 @@ A simple yet efficient **To-Do List** app developed in **Java** and **XML** usin
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshot/Screenshot1.png" alt="Light Theme" width="250"/>
+  <img src="screenshot/Screenshot1.png"  width="250"/>
   
 </p>
 
