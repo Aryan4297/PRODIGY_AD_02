@@ -33,7 +33,7 @@ A simple yet efficient **To-Do List** app developed in **Java** and **XML** usin
 
 - "Buy groceries"
 - "Finish assignment by Friday"
-- "Call John at 5 PM"
+- "Call Mom at 5 PM"
 - "Review pull requests"
 
 ---
@@ -49,3 +49,9 @@ A simple yet efficient **To-Do List** app developed in **Java** and **XML** usin
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open issues or pull requests.
 
+---
+## 👤 Author
+- Aryan Jadhav
+- 📧 aryanjadhav4297@gmail.com
+- 🔗LinkedIn Post -
+- 🔗LinkedIn Account- https://www.linkedin.com/in/aryan-jadhav-6b4891274
